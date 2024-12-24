@@ -15,8 +15,7 @@ I am a passionate **web developer** with a knack for creating dynamic, user-frie
   I’m also enthusiastic about supporting community-focused initiatives!  
 - 📫 **Get in Touch**:  
   - [LinkedIn](https://www.linkedin.com/in/utkarsha-aryal-ba22651a6)  
-  - **Email**: utkarsha.aryal@example.com *(replace with your actual email)*  
-- 😄 **Pronouns**: He/Him  
+  - **Email**: utkarshaaryal7@gmail.com
 - ⚡ **Fun Fact**: Alongside my tech enthusiasm, I’m committed to **community service** and enjoy staying active as a **fitness enthusiast**.  
 
 ---
