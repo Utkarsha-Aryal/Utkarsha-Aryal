@@ -15,13 +15,12 @@ I am a passionate **web developer** with a knack for creating dynamic, user-frie
   I’m also enthusiastic about supporting community-focused initiatives!  
 - 📫 **Get in Touch**:  
   - [LinkedIn](https://www.linkedin.com/in/utkarsha-aryal-ba22651a6)  
-  - **Email**: utkarshaaryal7@gmail.com
+  - **Email**: utkarshaaryal7@gmail.com  
 - ⚡ **Fun Fact**: Alongside my tech enthusiasm, I’m committed to **community service** and enjoy staying active as a **fitness enthusiast**.  
 
 ---
 
 ### 🔧 Tech Stack  
-Here’s what I work with:  
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)  
 ![Vue.js](https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=flat&logo=vue.js&logoColor=white)  
@@ -33,7 +32,14 @@ Here’s what I work with:
 
 ### 📊 GitHub Stats  
 ![Utkarsha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Utkarsha-Aryal&show_icons=true&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Utkarsha-Aryal&theme=radical&date_format=M%20j%5B%2C%20Y%5D)  
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Utkarsha-Aryal&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
+
+---
+
+### 🏆 Achievements  
+- 🔥 **Current Streak**: ![Current Streak](https://github-readme-streak-stats.herokuapp.com?user=Utkarsha-Aryal&theme=radical)  
+- 🌟 **Longest Streak**: ![Longest Streak](https://github-readme-streak-stats.herokuapp.com?user=Utkarsha-Aryal&theme=radical&date_format=M%20j%5B%2C%20Y%5D)  
 
 ---
 
@@ -41,7 +47,7 @@ Here’s what I work with:
 Here are some highlights from my work:  
 
 1. **Hotel Management System**: A robust hotel booking and management platform built with Laravel and Vue.js *(Work in progress)*.  
-3. **Pharma Distributor E-commerce**: Designing an e-commerce solution tailored for a pharmaceutical distributor.  
+2. **Pharma Distributor E-commerce**: Designing an e-commerce solution tailored for a pharmaceutical distributor.  
 
 ---
 
