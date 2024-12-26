@@ -37,11 +37,7 @@ I am a passionate **web developer** with a knack for creating dynamic, user-frie
 
 ---
 
-### 🏆 Achievements  
-- 🔥 **Current Streak**: ![Current Streak](https://github-readme-streak-stats.herokuapp.com?user=Utkarsha-Aryal&theme=radical)  
-- 🌟 **Longest Streak**: ![Longest Streak](https://github-readme-streak-stats.herokuapp.com?user=Utkarsha-Aryal&theme=radical&date_format=M%20j%5B%2C%20Y%5D)  
 
----
 
 ### 💻 Featured Projects  
 Here are some highlights from my work:  
